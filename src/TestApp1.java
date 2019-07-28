@@ -7,7 +7,7 @@ public class TestApp1 {
 		if(str1 == "happy"){
 			System.out.println("Do office work....");
 		}else
-			System.out.println("Go to goa...");
+			System.out.println("Go to goa.and ooty..");
 		
 	}
 }
